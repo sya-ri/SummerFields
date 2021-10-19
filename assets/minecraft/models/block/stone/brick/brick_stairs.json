@@ -1,9 +1,0 @@
-{
-    "parent": "block/stone/base_stairs",
-    "textures": {
-        "bottom": "blocks/variants/stone/brick/brick_top",
-        "top": "blocks/variants/stone/brick/brick_top",
-        "side": "blocks/brick",
-        "midtop": "blocks/variants/stone/brick/brick_top"
-    }
-}

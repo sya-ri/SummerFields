@@ -1,6 +1,0 @@
-{
-    "parent": "block/button",
-    "textures": {
-        "texture": "blocks/variants/button/stone_button"
-    }
-}
