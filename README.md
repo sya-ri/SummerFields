@@ -48,6 +48,7 @@ Release 1.18
     - asciillager
     - redesign book
     - redesign firework star
+    - new compass and clock
   - by [Snykeurs] (https://github.com/Snykeurs)
     - Disc otherside
 
